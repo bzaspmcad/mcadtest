@@ -5,3 +5,6 @@ aside.sidebar {
 header.appbar.ng-star-inserted {
     display:none
 }
+span.event__dateTime.ng-star-inserted {
+    display:none
+}
